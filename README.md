@@ -1,2 +1,3 @@
-# Discord-Custom-Activity
-Simple script to change Discord activity
+# discord-activity-changer
+Simple script to rapidly change your discord activity via discord's api.
+
